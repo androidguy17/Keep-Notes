@@ -70,7 +70,7 @@ class MainActivity : AppCompatActivity() {
             View.tvdes.text = note.des
             return View
 
-        }
+        } 
 
         override fun getItem(p0: Int): Any {
             return list[p0]
