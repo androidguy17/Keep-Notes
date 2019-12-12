@@ -107,6 +107,13 @@ class MainActivity : AppCompatActivity() {
                 startActivity(intent)
 
             }
+
+            R.id.about ->{
+                var intent =Intent(this@MainActivity,about::class.java)
+                startActivity(intent)
+
+
+            }
         }
 
         return super.onOptionsItemSelected(item)
