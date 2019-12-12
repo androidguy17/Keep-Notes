@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#008577</color>
-    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorPrimary">#D81B60</color>
+    <color name="colorPrimaryDark">#d81b60</color>//e8be33
     <color name="colorAccent">#D81B60</color>
     <color name="white">#ffffff</color>
     <color name="grey">#CFCFCF</color>
     <color name="pink">#FF69B4</color>
     <color name="dark_pink">#C71585</color>
     <color name="aqua">#20DCDC</color>
+    <color name="light_pink">#ffd5d5</color>
+    <color name="yellow">#ffd52e</color>
+    <color name="blue">#22B2DA</color>
+    <color name="reddish">#D81B60</color>
+    <color name="Transparent">#00000000</color>
+
 </resources>
